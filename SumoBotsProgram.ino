@@ -1,4 +1,4 @@
-/* AUTHORS: Gurman Brar, Eknoor Singh, Jagroop Gill
+/* AUTHORS: Gurman Brar, Eknoor Singh, Jagroop Gill, Kumail Naqvi
  * DATE: NOV.19 - NOV.24
  * PURPOSE: Create an autonomous sumo bot that is able to defend,
  * attack and move on its own, responding to different 
